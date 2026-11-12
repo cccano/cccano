@@ -42,8 +42,10 @@ Que factores del comportamiento del cliente están más fuertemente asociados co
 - Los usuarios premium no representan un factor significante en el ingreso en ventas anuales del negocio.
 
 https://github.com/cccano/project_Planes_Telefonia.git
+
 **Objetivo:**
 Identificar patrones de uso, comportamientos atípicos y comprender que segmentos de clientes muestran necesidades diferenciales.
+
 **Hallazgos:**
 - El comportamiento por edad destaca que el grupo de adultos entre los 30 y 60 años, siendo el grupo mas grande con 2000 usuarios, seguido de los adultos mayores con mas de 1000.
 - El comportamiento por nivel de uso destaca el grupo de uso medio que son los usuarios que realizan entre 5 y 10 llamadas y mensajes con 3000 usuarios.
