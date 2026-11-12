@@ -11,8 +11,10 @@ para la toma de decisiones.**
 ###Proyectos
 
 https://github.com/cccano/Analisis_integral_Rappi_Plus.git
+
 **Objetivo:**
 El objetivo de este proyecto es evaluar el desempeño del servicio RappiPlus para apoyar decisiones de negocio basadas en datos.
+
 **Hallazgos:**
 - Los usuarios no siguen un camino lineal, si no que aterrizan en la página de productos desde motores de busqueda, campañas o enlaces externos.
 - El punto de mayor fricción para el usuario es cuando debe dar sus datos para poder realizar el pago.
@@ -20,16 +22,20 @@ El objetivo de este proyecto es evaluar el desempeño del servicio RappiPlus par
 - Se encontro una relación significativa entre el tipo de dispositivo y la conversión del usuario.
 
 https://github.com/cccano/Experimento_A-B_pagina_inicio.git
+
 **Objetivo:**
 Determinar si se debe implementar la nueva página de inicio o mantener la original de acuerdo a las pruebas realizadas.
+
 **Hallazgos:**
 - La página B con un gasto promedio superior a la página A, y la prueba de hipótesis con p < 0.05 confirma que la diferencia estadística entre las páginas no es producto del azar, sino un comportamiento de compra de la página B superior a la página A.
 - La página B es claramente superior a la página A; la prueba indica que este hecho no es producto del azar, sino un rendimiento mejor y replicable.
 - La plataforma demuestra una capacidad sólida para convertir a usuarios primerisos (14.36%) al mismo ritmo que a los usuarios que ya conocen la marca.
 
 https://github.com/cccano/proyecto_factores_cliente.git
+
 **Objetivo:**
 Que factores del comportamiento del cliente están más fuertemente asociados con el ingreso anual generado.
+
 **Hallazgos:**
 - Se presenta una asociación débil entre el dispoditivo y la región del usuario, como tambien en la variable de abandono respecto a las variables categoricas.
 - No hay una diferencia significativa entre el usuario premiunm y los demas usuarrios respecto a la visita a la página web.
